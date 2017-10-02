@@ -15,6 +15,7 @@ An set of developers based in Manchester interested in all things Blockchain.
 ### Links
 
 * Website - www.blockchainmanchester.co.uk
+* meetup - https://www.meetup.com/BlockchainManchesterMeetup
 * Medium - https://medium.com/blockchain-manchester
 * Twitter - https://twitter.com/blockchain_manc
 

@@ -19,21 +19,32 @@ An set of developers based in Manchester interested in all things Blockchain.
 
 --------
 
-## Useful Guides and Links
+## Blockchain
 
-### Blockchain
+### Introduction
 
+## Bitcoin
 
-### Ethereum
-
-#### Development
-
-##### Solidity
-
-* List of DApps - https://www.stateofthedapps.com/
-
-### Bitcoin
+### Introduction 
 
 * A newcomers guide to bitcoin - https://www.reddit.com/r/Bitcoin/comments/6jlop4/rbitcoin_faq_newcomers_please_read/
 
---------
+## Ethereum
+
+### Introduction
+
+### Development
+
+#### Solidity and the EVM
+
+#### Frameworks
+
+#### DApps
+
+* List of DApps - https://www.stateofthedapps.com/
+
+## Alt-coins
+
+### Litecoin
+
+### Neo

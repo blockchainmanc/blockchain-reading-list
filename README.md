@@ -19,9 +19,10 @@
 
 ### Ethereum
 
+* List of DApps - https://www.stateofthedapps.com/
 
 ### Bitcoin
 
-* https://www.reddit.com/r/Bitcoin/comments/6jlop4/rbitcoin_faq_newcomers_please_read/
+* A newcomers guide to bitcoin - https://www.reddit.com/r/Bitcoin/comments/6jlop4/rbitcoin_faq_newcomers_please_read/
 
 --------

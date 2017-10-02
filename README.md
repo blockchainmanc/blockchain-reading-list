@@ -37,6 +37,7 @@ We're setting up Blockchain Manchester for these reasons:
 ### Introduction 
 
 * A newcomers guide to bitcoin - https://www.reddit.com/r/Bitcoin/comments/6jlop4/rbitcoin_faq_newcomers_please_read/
+* How to Protect Your Cryptocurrency - https://blockgeeks.com/guides/paper-wallet-guide/
 
 ## Ethereum
 

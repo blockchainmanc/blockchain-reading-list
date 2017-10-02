@@ -1,7 +1,5 @@
 # blockchain-reading-list
 
---------
-
 ## About Blockchain Manchester
 
 ### Who we are
@@ -23,10 +21,14 @@ An set of developers based in Manchester interested in all things Blockchain.
 
 ## Useful Guides and Links
 
-### Block chain
+### Blockchain
 
 
 ### Ethereum
+
+#### Development
+
+##### Solidity
 
 * List of DApps - https://www.stateofthedapps.com/
 

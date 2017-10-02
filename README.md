@@ -2,7 +2,7 @@
 
 ## About Blockchain Manchester
 
-### Who we are
+### Who are we?
 
 An set of developers based in Manchester interested in all things Blockchain. 
 

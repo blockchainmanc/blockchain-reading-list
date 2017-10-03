@@ -65,7 +65,7 @@ We're setting up Blockchain Manchester for these reasons:
 
 * https://storeofvalue.github.io/posts/neo-vs-qtum-which-is-the-real-chinese-ethereum/
 
-### General Cytpo
+### General Crypto
 
 * Introduction to Cryptography by Christof Paar - https://www.youtube.com/watch?v=2aHkqB2-46k
 * Ever wonder how Bitcoin (and other cryptocurrencies actually work? - https://www.youtube.com/watch?feature=youtu.be&v=bBC-nXj3Ng4

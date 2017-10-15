@@ -31,7 +31,6 @@ We're setting up Blockchain Manchester for these reasons:
 ## Blockchain
 
 * UK Gov report on blockchain - https://www.gov.uk/government/news/distributed-ledger-technology-beyond-block-chain
-* A newcomers guide to crypto - https://medium.com/the-litecoin-school-of-crypto/a-newcomers-guide-to-crypto/home
 
 ### Introduction
 
@@ -58,6 +57,7 @@ We're setting up Blockchain Manchester for these reasons:
 
 ## LTC
 
+* A newcomers guide to crypto (litecoin focused) - https://medium.com/the-litecoin-school-of-crypto/a-newcomers-guide-to-crypto/home
 * Lighting network (part 1,2,3) - https://medium.com/the-litecoin-school-of-crypto/a-primer-to-the-lightning-network-part-1-be909c403bde
 
 ## Alt-coins

@@ -30,8 +30,11 @@ We're setting up Blockchain Manchester for these reasons:
 
 ## Blockchain
 
+* Intro explanation - http://uk.businessinsider.com/become-a-blockchain-expert-in-1384-words-2017-10?amp&r=US&IR=T
+* Explanation of Blockchain - https://thenextweb.com/evergreen/2017/07/04/ultimate-3500-word-plain-english-guide-blockchain/#.tnw_zc4TPhV7
 * UK Gov report on blockchain - https://www.gov.uk/government/news/distributed-ledger-technology-beyond-block-chain
 * Various white papers on crypto-coins - https://www.coinlector.com
+
 
 ## Ethereum
 

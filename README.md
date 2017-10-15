@@ -31,15 +31,7 @@ We're setting up Blockchain Manchester for these reasons:
 ## Blockchain
 
 * UK Gov report on blockchain - https://www.gov.uk/government/news/distributed-ledger-technology-beyond-block-chain
-
-### Introduction
-
-## Bitcoin
-
-### Introduction 
-
-* A newcomers guide to bitcoin - https://www.reddit.com/r/Bitcoin/comments/6jlop4/rbitcoin_faq_newcomers_please_read/
-* How to Protect Your Cryptocurrency - https://blockgeeks.com/guides/paper-wallet-guide/
+* Various white papers on crypto-coins - https://www.coinlector.com
 
 ## Ethereum
 
@@ -54,6 +46,11 @@ We're setting up Blockchain Manchester for these reasons:
 
 * List of DApps - https://www.stateofthedapps.com/
 * New version of the famours million dollar homepage using Ethereum - https://thousandetherhomepage.com/
+
+## Bitcoin
+
+* A newcomers guide to bitcoin - https://www.reddit.com/r/Bitcoin/comments/6jlop4/rbitcoin_faq_newcomers_please_read/
+* How to Protect Your Cryptocurrency - https://blockgeeks.com/guides/paper-wallet-guide/
 
 ## LTC
 

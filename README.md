@@ -50,10 +50,14 @@ We're setting up Blockchain Manchester for these reasons:
 * Java Bindings for Solidity https://github.com/adridadou/eth-contract-api
 * .NET Ethereum - http://www.nethereum.com/
 
-#### DApps
+### DApps
 
 * List of DApps - https://www.stateofthedapps.com/
 * New version of the famours million dollar homepage using Ethereum - https://thousandetherhomepage.com/
+
+## LTC
+
+* Lighting network (part 1,2,3) - https://medium.com/the-litecoin-school-of-crypto/a-primer-to-the-lightning-network-part-1-be909c403bde
 
 ## Alt-coins
 

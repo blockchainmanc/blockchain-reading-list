@@ -39,6 +39,7 @@ We're setting up Blockchain Manchester for these reasons:
 ## Ethereum
 
 * ERC-20 Token spec - https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md
+* What is ERC-20 - https://blockgeeks.com/guides/ethereum-token/
 
 ### Development
 

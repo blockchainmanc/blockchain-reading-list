@@ -36,6 +36,7 @@ We're setting up Blockchain Manchester for these reasons:
 * UK Gov report on blockchain - https://www.gov.uk/government/news/distributed-ledger-technology-beyond-block-chain
 * Various white papers on crypto-coins - https://www.coinlector.com
 * What are Blockchain Oracles - https://cointelegraph.com/explained/blockchain-oracles-explained
+* Blockchain for dummies - https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN
 
 ## Ethereum
 

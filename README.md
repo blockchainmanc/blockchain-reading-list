@@ -49,6 +49,8 @@ We're setting up Blockchain Manchester for these reasons:
 * Java Bindings for Solidity https://github.com/adridadou/eth-contract-api
 * .NET Ethereum - http://www.nethereum.com/
 * Solidity best practice - https://github.com/ConsenSys/smart-contract-best-practices
+* New experimental programming language - github.com/ethereum/viper
+* ether.js docs - https://docs.ethers.io/ethers.js/html/index.html
 
 ### DApps
 

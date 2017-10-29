@@ -28,15 +28,31 @@ We're setting up Blockchain Manchester for these reasons:
 
 --------
 
+| [Blockchain](#Blockchain) | [Ethereum](#Ethereum) | [Bitcoin](#Bitcoin) | [LTC](#LTC) | [Neo](#Neo) | [QTUM](#QTUM) | [UBQ](#UBQ)
+
+
+--------
+
 ## Blockchain
+
+#### Intro
 
 * Intro explanation - http://uk.businessinsider.com/become-a-blockchain-expert-in-1384-words-2017-10?amp&r=US&IR=T
 * Explanation of Blockchain - https://thenextweb.com/evergreen/2017/07/04/ultimate-3500-word-plain-english-guide-blockchain/#.tnw_zc4TPhV7
+* Blockchain for dummies - https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN
+
+#### Whitepapers & More
+
 * Build a blockchain (in Python): https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 * UK Gov report on blockchain - https://www.gov.uk/government/news/distributed-ledger-technology-beyond-block-chain
 * Various white papers on crypto-coins - https://www.coinlector.com
 * What are Blockchain Oracles - https://cointelegraph.com/explained/blockchain-oracles-explained
-* Blockchain for dummies - https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN
+
+### General Crypto
+
+* Introduction to Cryptography by Christof Paar - https://www.youtube.com/watch?v=2aHkqB2-46k
+* Ever wonder how Bitcoin (and other cryptocurrencies actually work? - https://www.youtube.com/watch?feature=youtu.be&v=bBC-nXj3Ng4
+* Creating paper wallets - https://blockgeeks.com/guides/paper-wallet-guide/
 
 ## Ethereum
 
@@ -44,7 +60,7 @@ We're setting up Blockchain Manchester for these reasons:
 * ERC-20 Token spec - https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md
 * What is ERC-20 - https://blockgeeks.com/guides/ethereum-token/
 
-### Development
+#### Development
 
 * Java Bindings for Solidity https://github.com/adridadou/eth-contract-api
 * .NET Ethereum - http://www.nethereum.com/
@@ -52,7 +68,7 @@ We're setting up Blockchain Manchester for these reasons:
 * New experimental programming language - http://github.com/ethereum/viper
 * ether.js docs - https://docs.ethers.io/ethers.js/html/index.html
 
-### DApps
+#### DApps
 
 * List of DApps - https://www.stateofthedapps.com/
 * New version of the famours million dollar homepage using Ethereum - https://thousandetherhomepage.com/
@@ -69,22 +85,15 @@ We're setting up Blockchain Manchester for these reasons:
 
 ## Alt-coins
 
-### Neo
+#### Neo
 
 * https://storeofvalue.github.io/posts/neo-vs-qtum-which-is-the-real-chinese-ethereum/
 
-### QTUM
+#### QTUM
 
 * https://storeofvalue.github.io/posts/neo-vs-qtum-which-is-the-real-chinese-ethereum/
 
-### UBIQ
+#### UBIQ
 
 * https://ubiqsmart.com/
 * A guide to UBIQ - https://blockonomi.com/ubiq-guide/
-
-## General Crypto
-
-* Introduction to Cryptography by Christof Paar - https://www.youtube.com/watch?v=2aHkqB2-46k
-* Ever wonder how Bitcoin (and other cryptocurrencies actually work? - https://www.youtube.com/watch?feature=youtu.be&v=bBC-nXj3Ng4
-* Creating paper wallets - https://blockgeeks.com/guides/paper-wallet-guide/
-

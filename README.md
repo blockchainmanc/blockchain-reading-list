@@ -28,7 +28,7 @@ We're setting up Blockchain Manchester for these reasons:
 
 --------
 
-| [Blockchain](#Blockchain) | [Ethereum](#Ethereum) | [Bitcoin](#Bitcoin) | [LTC](#LTC) | [Neo](#Neo) | [QTUM](#QTUM) | [UBQ](#UBQ)
+| [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBQ](#ubq)
 
 
 --------

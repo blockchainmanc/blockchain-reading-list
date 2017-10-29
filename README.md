@@ -81,7 +81,7 @@ We're setting up Blockchain Manchester for these reasons:
 #### DApps
 
 * List of DApps - https://www.stateofthedapps.com/
-* New version of the famours million dollar homepage using Ethereum - https://thousandetherhomepage.com/
+* New version of the famous million dollar homepage using Ethereum - https://thousandetherhomepage.com/
 
 ## Bitcoin
 

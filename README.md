@@ -48,7 +48,7 @@ We're setting up Blockchain Manchester for these reasons:
 * Various white papers on crypto-coins - https://www.coinlector.com
 * What are Blockchain Oracles - https://cointelegraph.com/explained/blockchain-oracles-explained
 
-### General Crypto
+#### Cryptocurrency
 
 * Introduction to Cryptography by Christof Paar - https://www.youtube.com/watch?v=2aHkqB2-46k
 * Ever wonder how Bitcoin (and other cryptocurrencies actually work? - https://www.youtube.com/watch?feature=youtu.be&v=bBC-nXj3Ng4
@@ -67,6 +67,16 @@ We're setting up Blockchain Manchester for these reasons:
 * Solidity best practice - https://github.com/ConsenSys/smart-contract-best-practices
 * New experimental programming language - http://github.com/ethereum/viper
 * ether.js docs - https://docs.ethers.io/ethers.js/html/index.html
+
+#### Faucets
+
+* [Ropsten Faucet](http://faucet.ropsten.be:3001/)
+* [Rinkeby Faucet](https://faucet.rinkeby.io/)
+* [MetaMask Faucet](https://faucet.metamask.io)
+
+#### Block Explorers
+* [Ethplorer](https://ethplorer.io)
+* [Etherscan](https://etherscan.io)
 
 #### DApps
 

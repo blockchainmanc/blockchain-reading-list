@@ -46,13 +46,17 @@ We're setting up Blockchain Manchester for these reasons:
 * Build a blockchain (in Python): https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 * UK Gov report on blockchain - https://www.gov.uk/government/news/distributed-ledger-technology-beyond-block-chain
 * Various white papers on crypto-coins - https://www.coinlector.com
-* What are Blockchain Oracles - https://cointelegraph.com/explained/blockchain-oracles-explained
 
 #### Cryptocurrency
 
 * Introduction to Cryptography by Christof Paar - https://www.youtube.com/watch?v=2aHkqB2-46k
 * Ever wonder how Bitcoin (and other cryptocurrencies actually work? - https://www.youtube.com/watch?feature=youtu.be&v=bBC-nXj3Ng4
 * Creating paper wallets - https://blockgeeks.com/guides/paper-wallet-guide/
+
+#### Blockchain Oracles
+* What are Blockchain Oracles - https://cointelegraph.com/explained/blockchain-oracles-explained
+* Understanding Oracles from Oraclize - https://blog.oraclize.it/understanding-oracles-99055c9c9f7b
+* Setup custom Oracles - https://www.realitykeys.com/
 
 ## Ethereum
 

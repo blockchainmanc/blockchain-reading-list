@@ -71,7 +71,7 @@ We're setting up Blockchain Manchester for these reasons:
 * Solidity best practice - https://github.com/ConsenSys/smart-contract-best-practices
 * New experimental programming language - http://github.com/ethereum/viper
 * ether.js docs - https://docs.ethers.io/ethers.js/html/index.html
-
+* An Ethereum based war game - https://github.com/OpenZeppelin/ethernaut
 #### Faucets
 
 * [Ropsten Faucet](http://faucet.ropsten.be:3001/)
@@ -91,23 +91,28 @@ We're setting up Blockchain Manchester for these reasons:
 
 * A newcomers guide to bitcoin - https://www.reddit.com/r/Bitcoin/comments/6jlop4/rbitcoin_faq_newcomers_please_read/
 * How to Protect Your Cryptocurrency - https://blockgeeks.com/guides/paper-wallet-guide/
+* BTC blockexplorer - https://live.blockcypher.com/btc/
 
 ## LTC
 
 * A newcomers guide to crypto (litecoin focused) - https://medium.com/the-litecoin-school-of-crypto/a-newcomers-guide-to-crypto/home
 * Lighting network (part 1,2,3) - https://medium.com/the-litecoin-school-of-crypto/a-primer-to-the-lightning-network-part-1-be909c403bde
+* LTC blockexplorer - https://live.blockcypher.com/ltc/
 
 ## Alt-coins
 
 #### Neo
 
 * https://storeofvalue.github.io/posts/neo-vs-qtum-which-is-the-real-chinese-ethereum/
+* NEO blockexplorer - https://neotracker.io/
 
 #### QTUM
 
 * https://storeofvalue.github.io/posts/neo-vs-qtum-which-is-the-real-chinese-ethereum/
+* QTUM blockexplorer - https://explorer.qtum.org/
 
 #### UBIQ
 
 * https://ubiqsmart.com/
 * A guide to UBIQ - https://blockonomi.com/ubiq-guide/
+* UBIQ blockexplorer - https://ubiqscan.io/

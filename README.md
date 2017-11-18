@@ -46,6 +46,7 @@ We're setting up Blockchain Manchester for these reasons:
 * Build a blockchain (in Python): https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 * UK Gov report on blockchain - https://www.gov.uk/government/news/distributed-ledger-technology-beyond-block-chain
 * Various white papers on crypto-coins - https://www.coinlector.com
+* _Trust, But Verify: Why the Blockchain Needs the Law_ - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844409
 
 #### Cryptocurrency
 

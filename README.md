@@ -105,6 +105,7 @@ We're setting up Blockchain Manchester for these reasons:
 #### Neo
 
 * https://storeofvalue.github.io/posts/neo-vs-qtum-which-is-the-real-chinese-ethereum/
+* Loads of NEO resources - https://github.com/CityOfZion/awesome-neo
 * NEO blockexplorer - https://neotracker.io/
 
 #### QTUM

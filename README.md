@@ -26,6 +26,10 @@ We're setting up Blockchain Manchester for these reasons:
 * Medium - https://medium.com/blockchain-manchester
 * Twitter - https://twitter.com/blockchain_manc
 
+## Blockchain Manchester Talks
+* [Introduction to blockchain (Genesis)](https://docs.google.com/presentation/d/e/2PACX-1vRfV5OG6zovxvhTgykZzMCjJ9Gq6WohSB3l1NF_ijZYV00qjWHMERm2D-MgPnIRhHqAATjMenTz6-cb/pub?start=false&loop=false&delayms=3000)
+* [Decentralised Apps and Trust](https://docs.google.com/presentation/d/e/2PACX-1vQF-3ZyBUCCPtSbMTm_K2EegLOKzDovLJ5LUo3W6uVFAZD0clDP6nwuK8vdeXYpkHGzKoTmmTvZP72k/pub?start=true&loop=true&delayms=3000)
+
 --------
 
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq)

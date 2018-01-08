@@ -68,6 +68,7 @@ We're setting up Blockchain Manchester for these reasons:
 * Understanding Ethereum - http://cfd.net.au/article/understanding-ethereum-full-guide-sat-10212017-0346.html
 * ERC-20 Token spec - https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md
 * What is ERC-20 - https://blockgeeks.com/guides/ethereum-token/
+* Plasma - https://ethresear.ch/t/minimal-viable-plasma/426
 
 #### Development
 
@@ -77,6 +78,9 @@ We're setting up Blockchain Manchester for these reasons:
 * New experimental programming language - http://github.com/ethereum/viper
 * ether.js docs - https://docs.ethers.io/ethers.js/html/index.html
 * An Ethereum based war game - https://github.com/OpenZeppelin/ethernaut
+* Truffle boxes - pre-built starter apps for thruffle and Ethereum http://truffleframework.com/boxes/
+* Easy to understand Solidity examples - https://github.com/robertsimoes/Solidity-Contract-Patterns
+
 #### Faucets
 
 * [Ropsten Faucet](http://faucet.ropsten.be:3001/)
@@ -91,6 +95,7 @@ We're setting up Blockchain Manchester for these reasons:
 
 * List of DApps - https://www.stateofthedapps.com/
 * New version of the famous million dollar homepage using Ethereum - https://thousandetherhomepage.com/
+* DApp to help purchase `.eth` domains https://enslisting.com/
 
 ## Bitcoin
 

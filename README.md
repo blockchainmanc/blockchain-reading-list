@@ -22,13 +22,15 @@ We're setting up Blockchain Manchester for these reasons:
 ### Links
 
 * Website - www.blockchainmanchester.co.uk
-* meetup - https://www.meetup.com/BlockchainManchesterMeetup
-* Medium - https://medium.com/blockchain-manchester
-* Twitter - https://twitter.com/blockchain_manc
+* meetup - [meetup.com/BlockchainManchesterMeetup](https://www.meetup.com/BlockchainManchesterMeetup)
+* Medium - [medium.com/blockchain-manchester](https://medium.com/blockchain-manchester)
+* Twitter - [@blockchain_manc](https://twitter.com/blockchain_manc)
 
 ## Blockchain Manchester Talks
 * [Introduction to blockchain (Genesis)](https://docs.google.com/presentation/d/e/2PACX-1vRfV5OG6zovxvhTgykZzMCjJ9Gq6WohSB3l1NF_ijZYV00qjWHMERm2D-MgPnIRhHqAATjMenTz6-cb/pub?start=false&loop=false&delayms=3000)
 * [Decentralised Apps and Trust](https://docs.google.com/presentation/d/e/2PACX-1vQF-3ZyBUCCPtSbMTm_K2EegLOKzDovLJ5LUo3W6uVFAZD0clDP6nwuK8vdeXYpkHGzKoTmmTvZP72k/pub?start=true&loop=true&delayms=3000)
+* [NEO - "Smart Economy" Overview](https://docs.google.com/presentation/d/e/2PACX-1vQDxynpxpcyRjgWHZVb9daOgVlMU8emTJlEt7tvre8QUjtog1FN7PbH-bvtNcYkbUCfqauqxYFEPMWc/pub?start=true&loop=true&delayms=3000)
+* [PoW vs PoS](https://docs.google.com/presentation/d/1Og8G_D1KJoURabFIRiCMKM2VaXi3Lg0APirORHNwQ4I/edit#slide=id.g323b1ae625_1_267)
 
 --------
 

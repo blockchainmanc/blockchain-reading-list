@@ -4,7 +4,7 @@
 
 ### Who are we?
 
-An set of developers based in Manchester interested in all things Blockchain. 
+A set of developers based in Manchester interested in all things Blockchain. 
 
 ### Goals
 

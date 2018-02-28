@@ -29,6 +29,7 @@ We're setting up Blockchain Manchester for these reasons:
 ## Blockchain Manchester Talks
 * [Introduction to blockchain (Genesis)](https://docs.google.com/presentation/d/e/2PACX-1vRfV5OG6zovxvhTgykZzMCjJ9Gq6WohSB3l1NF_ijZYV00qjWHMERm2D-MgPnIRhHqAATjMenTz6-cb/pub?start=false&loop=false&delayms=3000)
 * [Decentralised Apps and Trust](https://docs.google.com/presentation/d/e/2PACX-1vQF-3ZyBUCCPtSbMTm_K2EegLOKzDovLJ5LUo3W6uVFAZD0clDP6nwuK8vdeXYpkHGzKoTmmTvZP72k/pub?start=true&loop=true&delayms=3000)
+* [Intro to Blockchain Tech](https://docs.google.com/presentation/d/e/2PACX-1vR63xyLARMjlDFbXCJEV4N69d8zE-AWJBnApWbSMLgOw3wQES0Pxr1rhkDw-1qzTEPxC4h7VZN5e4hg/pub?start=true&loop=true&delayms=3000)
 * [NEO - "Smart Economy" Overview](https://docs.google.com/presentation/d/e/2PACX-1vQDxynpxpcyRjgWHZVb9daOgVlMU8emTJlEt7tvre8QUjtog1FN7PbH-bvtNcYkbUCfqauqxYFEPMWc/pub?start=true&loop=true&delayms=3000)
 * [PoW vs PoS](https://docs.google.com/presentation/d/1Og8G_D1KJoURabFIRiCMKM2VaXi3Lg0APirORHNwQ4I/edit#slide=id.g323b1ae625_1_267)
 

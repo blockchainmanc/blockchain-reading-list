@@ -32,6 +32,7 @@ We're setting up Blockchain Manchester for these reasons:
 * [Intro to Blockchain Tech](https://docs.google.com/presentation/d/e/2PACX-1vR63xyLARMjlDFbXCJEV4N69d8zE-AWJBnApWbSMLgOw3wQES0Pxr1rhkDw-1qzTEPxC4h7VZN5e4hg/pub?start=true&loop=true&delayms=3000)
 * [NEO - "Smart Economy" Overview](https://docs.google.com/presentation/d/e/2PACX-1vQDxynpxpcyRjgWHZVb9daOgVlMU8emTJlEt7tvre8QUjtog1FN7PbH-bvtNcYkbUCfqauqxYFEPMWc/pub?start=true&loop=true&delayms=3000)
 * [PoW vs PoS](https://docs.google.com/presentation/d/1Og8G_D1KJoURabFIRiCMKM2VaXi3Lg0APirORHNwQ4I/edit#slide=id.g323b1ae625_1_267)
+* [Minting a crypto-token](https://docs.google.com/presentation/d/e/2PACX-1vTpYvonoq1e4RDVptIZJGRl8PVH95lMDbuy3YvXZqQzEnYkOYsVld8nHcJcW71SbgZJ0Boq8LdZmZ4P/pub?start=true&loop=true&delayms=5000)
 
 --------
 

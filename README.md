@@ -27,14 +27,16 @@ We're setting up Blockchain Manchester for these reasons:
 * Twitter - [@blockchain_manc](https://twitter.com/blockchain_manc)
 
 ## Blockchain Manchester Talks
-* [Introduction to blockchain (Genesis)](https://docs.google.com/presentation/d/e/2PACX-1vRfV5OG6zovxvhTgykZzMCjJ9Gq6WohSB3l1NF_ijZYV00qjWHMERm2D-MgPnIRhHqAATjMenTz6-cb/pub?start=false&loop=false&delayms=3000)
+-------
+* [Introduction to blockchain (Blockchain Manchester Genesis)](https://docs.google.com/presentation/d/e/2PACX-1vRfV5OG6zovxvhTgykZzMCjJ9Gq6WohSB3l1NF_ijZYV00qjWHMERm2D-MgPnIRhHqAATjMenTz6-cb/pub?start=false&loop=false&delayms=3000)
+* [An Introduction to Blockchain Tech (Leeds)](https://docs.google.com/presentation/d/e/2PACX-1vT-OOmA48GiwtyDNgHxbPoLysBhv5lKRCF0Fu84p2pBeB5DJo7ya_EmOe3YJLyKyEWBhHncCtcJcP0I/pub?start=true&loop=false&delayms=3000)
+* [Intro to Blockchain Tech (Sheffield)](https://docs.google.com/presentation/d/e/2PACX-1vR63xyLARMjlDFbXCJEV4N69d8zE-AWJBnApWbSMLgOw3wQES0Pxr1rhkDw-1qzTEPxC4h7VZN5e4hg/pub?start=true&loop=true&delayms=3000)
+-------
 * [Decentralised Apps and Trust](https://docs.google.com/presentation/d/e/2PACX-1vQF-3ZyBUCCPtSbMTm_K2EegLOKzDovLJ5LUo3W6uVFAZD0clDP6nwuK8vdeXYpkHGzKoTmmTvZP72k/pub?start=true&loop=true&delayms=3000)
-* [Intro to Blockchain Tech](https://docs.google.com/presentation/d/e/2PACX-1vR63xyLARMjlDFbXCJEV4N69d8zE-AWJBnApWbSMLgOw3wQES0Pxr1rhkDw-1qzTEPxC4h7VZN5e4hg/pub?start=true&loop=true&delayms=3000)
 * [NEO - "Smart Economy" Overview](https://docs.google.com/presentation/d/e/2PACX-1vQDxynpxpcyRjgWHZVb9daOgVlMU8emTJlEt7tvre8QUjtog1FN7PbH-bvtNcYkbUCfqauqxYFEPMWc/pub?start=true&loop=true&delayms=3000)
 * [PoW vs PoS](https://docs.google.com/presentation/d/1Og8G_D1KJoURabFIRiCMKM2VaXi3Lg0APirORHNwQ4I/edit#slide=id.g323b1ae625_1_267)
 * [Minting a crypto-token](https://docs.google.com/presentation/d/e/2PACX-1vTpYvonoq1e4RDVptIZJGRl8PVH95lMDbuy3YvXZqQzEnYkOYsVld8nHcJcW71SbgZJ0Boq8LdZmZ4P/pub?start=true&loop=true&delayms=5000)
-
---------
+-------
 
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq)
 

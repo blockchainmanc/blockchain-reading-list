@@ -90,7 +90,7 @@ We're setting up Blockchain Manchester for these reasons:
 #### Faucets
 
 * [Ropsten Faucet](http://faucet.ropsten.be:3001/)
-* [Rinkeby Faucet](https://faucet.rinkeby.io/)
+* [Rinkeby Faucet](https://faucet.rinkeby.io/) & http://rinkeby-faucet.com/
 * [MetaMask Faucet](https://faucet.metamask.io)
 
 #### Block Explorers

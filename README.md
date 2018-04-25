@@ -36,6 +36,7 @@ We're setting up Blockchain Manchester for these reasons:
 * [NEO - "Smart Economy" Overview](https://docs.google.com/presentation/d/e/2PACX-1vQDxynpxpcyRjgWHZVb9daOgVlMU8emTJlEt7tvre8QUjtog1FN7PbH-bvtNcYkbUCfqauqxYFEPMWc/pub?start=true&loop=true&delayms=3000)
 * [PoW vs PoS](https://docs.google.com/presentation/d/1Og8G_D1KJoURabFIRiCMKM2VaXi3Lg0APirORHNwQ4I/edit#slide=id.g323b1ae625_1_267)
 * [Minting a crypto-token](https://docs.google.com/presentation/d/e/2PACX-1vTpYvonoq1e4RDVptIZJGRl8PVH95lMDbuy3YvXZqQzEnYkOYsVld8nHcJcW71SbgZJ0Boq8LdZmZ4P/pub?start=true&loop=true&delayms=5000)
+* [Building real-world DApps with Oraclize.it & KnownOrigin.io](https://docs.google.com/presentation/d/e/2PACX-1vR9j19Pi7NtRJs5IzMGQO0KKsI4qaewPVpDL1fQkKtZ69Zc8kLz5n8AZ4_RQ3Lglzs_Htk3wHmHVRhj/pub?start=true&loop=true&delayms=5000) - www.oraclize.it & www.knownorigin.io/ 
 -------
 
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq)

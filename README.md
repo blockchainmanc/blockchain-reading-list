@@ -80,6 +80,8 @@ We're setting up Blockchain Manchester for these reasons:
 * ERC-20 Token spec - https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md
 * What is ERC-20 - https://blockgeeks.com/guides/ethereum-token/
 * Plasma - https://ethresear.ch/t/minimal-viable-plasma/426
+* ABI signature generators - https://abi.sonnguyen.ws/ & https://abi.hashex.org/
+* 
 
 #### Development
 

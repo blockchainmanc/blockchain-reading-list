@@ -1,5 +1,3 @@
-# blockchain-reading-list
-
 ## About Blockchain Manchester
 
 ### Who are we?

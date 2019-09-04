@@ -2,11 +2,11 @@
 
 ### Who are we?
 
-Blockchain Manchester is a community effort by [BlockRocket](http://blockrocket.tech).
+Blockchain Manchester is a community effort by [BlockRocket](https://blockrocket.tech).
 
-[@BlockRocketTech](https://twitter.com/blockrockettech) is a blockchain focused engineering and product delivery business specalising in the application and use of Blochcain & Distrubted Ledger tcechnolgies. 
+[@BlockRocketTech](https://twitter.com/blockrockettech) is a blockchain focused engineering and product delivery business specalising in the application and use of Blochcain & Distrubted Ledger technologies. 
 
-Pridomantly we are builders, engineers and consultants based in Manchester who live and breath all things Blockchain, cryptocurrency and it their related technologies. 
+Primarily we are builders, engineers and consultants based in Manchester who live and breath all things Blockchain, cryptocurrency and it their related technologies. 
 
 Feel free to contract us if you would like to talk bussiness or just want to talk at one of our events.
 
@@ -57,7 +57,7 @@ Blockchain Manchester was set up for these reasons:
 * [Cardano, a blockchain platform built to last](https://docs.google.com/presentation/d/1cHlCGhm3_f2P97pazqEpo0zQRqNdQg--s4vX9vP8F9c/edit#slide=id.p) - by [Vincent Almeida](https://twitter.com/VincentMdA) 
 * [Stable Coins](https://github.com/blockchainmanc/blockchain-reading-list/blob/master/presentations/Stable%20Coins.pptx) by [Gavin brown](https://twitter.com/gavinb_finance)
 * [MakerDAO](https://github.com/blockchainmanc/blockchain-reading-list/blob/master/presentations/Maker%20%40blockchainmcr.pptx) by Emanuell Dan Minciu
-
+ * [Libra - a technical overview](https://docs.google.com/presentation/d/e/2PACX-1vSpBIGCgTb4FpRZV40Vz7H9p_HLjnZ0qWXdg2RI1ltzufNNL7goKFAqltX0CIr5HYKWNqA8GczV68mx/pub?start=false&loop=false&delayms=3000)
 -------
 
 | [Blockchain](#blockchain) | [Ethereum](#ethereum) | [Bitcoin](#bitcoin) | [LTC](#ltc) | [Neo](#neo) | [QTUM](#qtum) | [UBIQ](#ubiq)
